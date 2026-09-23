@@ -93,7 +93,7 @@
     "FLAREMO_SINGLE_USER_EMAIL": "owner@flaremo.local",
     "FLAREMO_SINGLE_USER_NAME": "FlareMo Owner",
     "FLAREMO_PUBLIC_URL": "https://flaremo.lukuochiang.workers.dev",
-    "FLAREMO_TRUSTED_ORIGINS": "",
+    "FLAREMO_TRUSTED_ORIGINS": "https://flaremo.lukuochiang.workers.dev",
     "FLAREMO_EMBEDDING_PROVIDER": "workers-ai",
     "FLAREMO_EMBEDDING_MODEL": "@cf/qwen/qwen3-embedding-0.6b",
     "FLAREMO_EMBEDDING_DIMENSIONS": "1024",
